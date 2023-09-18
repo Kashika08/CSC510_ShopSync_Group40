@@ -116,3 +116,7 @@ following application.
     inherit properties from a superclass, minimizing redundancy and
     improving application speed. Our adherence to these object-oriented
     concepts will add to our application's enhanced functionality.
+
+# Conclusion
+
+After evaluating all five assigned projects based on rubric and comparing their performance, we determined that "Slash" received the highest score. Despite encountering a few challenges during the project's execution, our teamwork and collaborative efforts allowed us to overcome these issues and successfully complete the project.The primary objective of this project is to simplify the process of finding the best online shopping deals. To ensure the project remains user-friendly, maintainable, and open to future improvements, we are committed to adhering to coding standards such as PEP 8, thorough code documentation, and good coding practices.
