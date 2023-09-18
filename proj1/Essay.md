@@ -3,9 +3,6 @@ CSC 510 Software Engineering\
 Project Title - ShopSync
 ---
 
-**CSC 510 Software Engineering\
-Project Title - ShopSync**
-
 # Project Overview
 
 From the five projects that were assigned to us, we decided on SLASH,
