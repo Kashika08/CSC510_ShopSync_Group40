@@ -3,26 +3,8 @@ CSC 510 Software Engineering\
 Project Title - ShopSync
 ---
 
-::: titlepage
-::: center
-![image](images/img.jpeg){width="80%"}
-
 **CSC 510 Software Engineering\
 Project Title - ShopSync**
-
-Author\
-**Riya Gori**\
-**Sinchana Shetty**\
-**Kashika Malick**\
-**Sweta Shinde**
-
- []{.smallcaps}
-
-[North Carolina State University]{.smallcaps}
-
-September 2023
-:::
-:::
 
 # Project Overview
 
