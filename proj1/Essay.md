@@ -28,7 +28,7 @@ customization options to suit particular needs.
 We effectively handled our work by assigning specific projects among
 team members. We first looked closely at the code and documentation for
 each project. After acquiring a thorough grasp, we talked about our
-options and chose the most promising concept.The teamwork within our
+options and chose the most promising concept. The teamwork within our
 group played a crucial role in turning the assignment into a successful
 and functional project.
 
@@ -36,7 +36,7 @@ and functional project.
 
 Throughout the duration of the project, we encountered a series of
 technical challenges. These challenges were primarily encountered due to
-the dynamic nature of software environment, where the updated software
+the dynamic nature of the software environment, where the updated software
 components posed both opportunities as well as obstacles. We struggled
 with the complexities brought about by these updates, including version
 mismatches and clashing versions. Additionally, a few code errors
@@ -47,7 +47,7 @@ the valuable insights we gained from navigating these technical hurdles.
 Firstly, we attempted to run all of the projects that were assigned to
 us. While some of them did not have the best user interface, the others
 had complex challenges like connection to DB. We were unable to run one
-of the projects since the cross origin resource sharing (CORS) was not
+of the projects since the cross-origin resource sharing (CORS) was not
 enabled, which disallowed the front-end to send the request to the
 back-end.
 
@@ -59,10 +59,7 @@ we faced during implementation of Slash included:
     code. The update of the same caused a clash in other dependencies.
 
 2.  ModuleNotFoundError: We encountered an error when attempting to
-    import functions from another Python class. This issue arose because
-    we were importing the functions using the syntax \"class.function,\"
-    which is outdated. The proper way to import them is by using the
-    syntax \"from src import function as func.\"
+    import functions from another Python class. We were able to resolve it by appending our project’s root directory to PYTHONPATH.
 
 3.  Code Error: The code was accessing keys in a dictionary without
     checking it's existence. That caused an error in the code.
